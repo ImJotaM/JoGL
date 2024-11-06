@@ -1,0 +1,6 @@
+#Ignore bin and bin-int
+bin
+bin-int
+
+#Igonore .vscode
+.vscode
